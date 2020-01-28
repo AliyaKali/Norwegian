@@ -1,0 +1,2 @@
+# Norwegian
+Protractor/Jasmine
